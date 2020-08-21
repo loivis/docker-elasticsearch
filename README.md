@@ -11,3 +11,9 @@ docker image for elasticsearch for local testing.
 ```
 docker run -it --rm -p 9200:9200 loivis/elasticsearch
 ```
+
+## offcial images
+
+[Docker Hub](https://hub.docker.com/_/elasticsearch)
+
+[Docker @ Elastic](https://www.docker.elastic.co/r/elasticsearch)
