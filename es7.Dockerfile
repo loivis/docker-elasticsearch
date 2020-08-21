@@ -1,4 +1,4 @@
-FROM elasticsearch:7.4.2
+FROM elasticsearch:7.7.0
 
 RUN elasticsearch-plugin install analysis-icu
 
